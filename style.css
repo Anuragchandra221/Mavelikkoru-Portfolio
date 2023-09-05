@@ -2,6 +2,8 @@ body{
     overflow-x: hidden;
     position: relative;
     scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
 }
 header{
     width: 250px;
@@ -37,6 +39,9 @@ header a:hover{
     color: #D98E04;
     font-size: xxx-large;
     line-height: 2em;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .intro{
     max-width: 490px;
@@ -46,7 +51,7 @@ header a:hover{
     font-weight: 400;
 }
 .header1{
-    width: 90%;
+    width: 100%;
 }
 a:hover{
     text-decoration: none;

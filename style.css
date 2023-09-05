@@ -4,6 +4,7 @@ body{
     scroll-behavior: smooth;
     padding: 0;
     margin: 0;
+    font-family: sans-serif;
 }
 header{
     width: 250px;
@@ -16,6 +17,9 @@ header{
 .about{
     max-width: 600px;
     line-height: 2em;
+}
+i{
+    font-size: 18px;
 }
 .mainImg1{
     width: 60%;

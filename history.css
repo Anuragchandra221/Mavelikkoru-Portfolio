@@ -1,0 +1,67 @@
+.about{
+    max-width: 600px;
+    line-height: 2em;
+}
+.vamana{
+    height: 400px;
+}
+.vishnu{
+    width: 70%;
+}
+.first{
+    width: 95%;
+    border-right: 5px solid #D98E04;
+    border-bottom: 5px solid #D98E04;
+}
+.second{
+    width: 95%;
+    border-left: 5px solid #D98E04;
+    border-bottom: 5px solid #D98E04;
+}
+.third{
+    width: 95%;
+    border-right: 5px solid #D98E04;
+    /* border-bottom: 2px solid #D98E04; */
+}
+.farmer{
+    width: 100%;
+}
+.kerala{
+    width: 100%;
+}
+.kingdom{
+    width: 100%;
+}
+@media only screen and (min-width: 768px) {
+    .first{
+        width: 70%;
+        border-right: 5px solid #D98E04;
+        border-bottom: 5px solid #D98E04;
+    }
+    .farmer{
+        width: 100%;
+    }
+    .kerala{
+        width: 100%;
+    }
+    .second{
+        width: 70%;
+        border-left: 5px solid #D98E04;
+        border-bottom: 5px solid #D98E04;
+    }
+    .third{
+        width: 70%;
+        border-right: 5px solid #D98E04;
+        /* border-bottom: 2px solid #D98E04; */
+    }
+    .kingdom{
+        width: 100%;
+    }
+    .vishnu{
+        width: 100%;
+    }
+    .mainImg{
+        width: 100%;
+    }
+
+  }
